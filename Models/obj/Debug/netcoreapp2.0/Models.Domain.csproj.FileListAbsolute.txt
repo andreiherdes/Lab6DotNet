@@ -1,0 +1,9 @@
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models\bin\Debug\netcoreapp2.0\Models.Domain.deps.json
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models\bin\Debug\netcoreapp2.0\Models.Domain.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models\bin\Debug\netcoreapp2.0\Models.Domain.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models\obj\Debug\netcoreapp2.0\Models.Domain.csprojResolveAssemblyReference.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models\obj\Debug\netcoreapp2.0\Models.Domain.csproj.CoreCompileInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models\obj\Debug\netcoreapp2.0\Models.Domain.AssemblyInfoInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models\obj\Debug\netcoreapp2.0\Models.Domain.AssemblyInfo.cs
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models\obj\Debug\netcoreapp2.0\Models.Domain.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models\obj\Debug\netcoreapp2.0\Models.Domain.pdb

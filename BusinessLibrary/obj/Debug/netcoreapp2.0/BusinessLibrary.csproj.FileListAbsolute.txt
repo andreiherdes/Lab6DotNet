@@ -1,0 +1,9 @@
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\BusinessLibrary\bin\Debug\netcoreapp2.0\BusinessLibrary.deps.json
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\BusinessLibrary\bin\Debug\netcoreapp2.0\BusinessLibrary.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\BusinessLibrary\bin\Debug\netcoreapp2.0\BusinessLibrary.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\BusinessLibrary\obj\Debug\netcoreapp2.0\BusinessLibrary.csprojResolveAssemblyReference.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\BusinessLibrary\obj\Debug\netcoreapp2.0\BusinessLibrary.csproj.CoreCompileInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\BusinessLibrary\obj\Debug\netcoreapp2.0\BusinessLibrary.AssemblyInfoInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\BusinessLibrary\obj\Debug\netcoreapp2.0\BusinessLibrary.AssemblyInfo.cs
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\BusinessLibrary\obj\Debug\netcoreapp2.0\BusinessLibrary.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\BusinessLibrary\obj\Debug\netcoreapp2.0\BusinessLibrary.pdb

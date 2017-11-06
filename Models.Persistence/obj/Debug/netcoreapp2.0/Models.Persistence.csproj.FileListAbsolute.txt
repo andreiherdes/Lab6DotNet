@@ -1,0 +1,11 @@
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models.Persistence\bin\Debug\netcoreapp2.0\Models.Persistence.deps.json
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models.Persistence\bin\Debug\netcoreapp2.0\Models.Persistence.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models.Persistence\bin\Debug\netcoreapp2.0\Models.Persistence.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models.Persistence\bin\Debug\netcoreapp2.0\Models.Domain.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models.Persistence\bin\Debug\netcoreapp2.0\Models.Domain.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models.Persistence\obj\Debug\netcoreapp2.0\Models.Persistence.csprojResolveAssemblyReference.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models.Persistence\obj\Debug\netcoreapp2.0\Models.Persistence.csproj.CoreCompileInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models.Persistence\obj\Debug\netcoreapp2.0\Models.Persistence.AssemblyInfoInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models.Persistence\obj\Debug\netcoreapp2.0\Models.Persistence.AssemblyInfo.cs
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models.Persistence\obj\Debug\netcoreapp2.0\Models.Persistence.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\Models.Persistence\obj\Debug\netcoreapp2.0\Models.Persistence.pdb
