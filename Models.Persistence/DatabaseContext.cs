@@ -13,7 +13,7 @@ namespace Models.Persistence
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            //optionsBuilder.UseSqlServer("");
+            optionsBuilder.UseSqlServer("");
         }
 
         int IDatabaseContext.SaveChanges()

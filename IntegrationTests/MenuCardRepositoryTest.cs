@@ -1,30 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 using BusinessLibrary;
 using Models.Domain.Entities;
 using Xunit;
 
 namespace IntegrationTests
 {
-    [TestClass]
     public class MenuRepositoryTest : BaseIntegrationTest
     {
 
-        [TestMethod]
-        public void Given_TodoRepository_When_AddingATodo_Then_TheTodoShouldBeProperlySaved()
+        [Fact]
+        public void Given_MenuCardRepository_When_AddingAMenuCard_Then_TheMenuCardShouldBeProperlySaved()
         {
             RunOnDatabase(ctx => {
                 //Arrange
                 var repository = new MenuCardRepository(ctx);
-                var todo = MenuCard.Create("descriere originala", false, "titlu original");
+                var menuCard = MenuCard.Create("descriere originala", new List<Menu>() , false);
 
                 //Act
-                repository.Add(todo);
+                repository.Add(menuCard);
 
                 //Assert
-                var todos = repository.GetAll();
-                Assert.AreEqual(1, todos.Count);
+                var menus = repository.GetAll();
+                Assert.True(1 == menus.Count);
             });
         }
     }

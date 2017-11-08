@@ -12,3 +12,12 @@ F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\IntegrationTests\obj\Debug\
 F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\IntegrationTests\obj\Debug\netcoreapp2.0\IntegrationTests.AssemblyInfo.cs
 F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\IntegrationTests\obj\Debug\netcoreapp2.0\IntegrationTests.dll
 F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\IntegrationTests\obj\Debug\netcoreapp2.0\IntegrationTests.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\IntegrationTests\bin\Debug\netcoreapp2.0\BusinessLibrary.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\IntegrationTests\bin\Debug\netcoreapp2.0\Models.Domain.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\IntegrationTests\bin\Debug\netcoreapp2.0\Models.Persistence.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\IntegrationTests\bin\Debug\netcoreapp2.0\BusinessLibrary.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\IntegrationTests\bin\Debug\netcoreapp2.0\Models.Persistence.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\IntegrationTests\bin\Debug\netcoreapp2.0\Models.Domain.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\IntegrationTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\IntegrationTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab6\Persistence\IntegrationTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
